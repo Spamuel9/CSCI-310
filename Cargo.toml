@@ -1,0 +1,10 @@
+[package]
+name = "midterm_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+filetime = "0.2"
+walkdir = "2.3"
+chrono = "0.4"
+rand = "0.8"
